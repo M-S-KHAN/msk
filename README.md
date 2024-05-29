@@ -1,6 +1,7 @@
-## MSK - Muhammad Sajawal Khan
+<div align="center">
+    <a href=""><h1 align="center">MSK</h1></a>
 
-Developer Profile for Muhammad Sajawal Khan, coming soon!
+My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) and deployed to [Vercel](https://vercel.com/).
 
+</div>
 
-Find me on [LinkedIn](https://linkedin.com/in/m-sajawal-khan). Let's connect!
