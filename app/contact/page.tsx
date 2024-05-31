@@ -7,9 +7,9 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <NetworkIcon size={20} />,
-		href: "https://twitter.com/sajawal_khan_",
+		href: "https://fiverr.com/thepyclan",
 		label: "Fiverr",
-		handle: "@sajawal_khan_",
+		handle: "The PyClan",
 	},
 	{
 		icon: <Mail size={20} />,
